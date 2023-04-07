@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Elena Krismer 👋
 
+- Researcher at [Matthias Mann labs](https://github.com/MannLabs)
+
+I am passionate about optimizing and automating data science and machine learning workflows. In addition, I enjoy aiding research teams leverage software engineering tools and principles to extract valuable biological insights from their data.
 <!--
 **elena-krismer/elena-krismer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +14,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
+Skills and TOOLS:
+- Skills and Tools: Python, Streamlit, R, RShiny, Matlab Docker, AWS, Git, Unix, Neo4J, SQL, MongoDB, High Performance Computing, DevOps, 
+  Collaborative Development, Working in interdisciplinary teams,...
