@@ -5,18 +5,12 @@
   <img height=150 width=40% align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elena-krismer&theme=dracula" />
 </a>
 
+Automation, logic, logistics & biology 🧬
+Curious mind, deep dives only
+Always exploring how things work.
+
 - Scientific Software Engineer at ETH Zurich
 - Former Researcher at [Matthias Mann labs](https://github.com/MannLabs)
-
-
-
-I am passionate about optimizing and automating data science and machine learning workflows. In addition, I enjoy aiding research teams leverage software engineering tools and principles to extract valuable biological insights from their data.
-
-Skills and TOOLS:
-- Skills and Tools: Python, Streamlit, R, RShiny, Matlab Docker, AWS, Git, Unix, Neo4J, SQL, MongoDB, High Performance Computing, DevOps, 
-  Collaborative Development, Working in interdisciplinary teams,...
-
-
 
 
 <a href="https://github.com/anuraghazra/cnvoychat">
